@@ -6,7 +6,7 @@
   <p align="center">
     Plotting SHM Graph using Python (Matplotlib | Numpy)
       <br />
-    <br>
+    <br> 
   </p>
 </p>
 
